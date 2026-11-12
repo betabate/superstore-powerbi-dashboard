@@ -61,4 +61,3 @@
 * `superstore_report.pbix` - ไฟล์ต้นฉบับ Power BI Desktop
 * `superstore_report.pdf` - ไฟล์รายงาน Dashboard รูปแบบ PDF
 * `data/Sample - Superstore.csv` - ชุดข้อมูลต้นฉบับที่ใช้ในการวิเคราะห์
-* `assets/` - รูปภาพหน้าจอ Dashboard สำหรับแสดงผล
