@@ -12,7 +12,7 @@
 
 ## 🖥️ Dashboard Preview
 
-![Superstore Dashboard Overview](assets/superstore_dashboard.png)
+![Superstore Dashboard Overview](superstore_report.pdf)
 
 <!-- หากมีไฟล์ GIF ตอนกด Slicer เลือกปี/หมวดหมู่ ให้ลบเครื่องหมายคอมเมนต์ด้านล่างออก -->
 <!-- ![Interactive Demo](assets/superstore_demo.gif) -->
